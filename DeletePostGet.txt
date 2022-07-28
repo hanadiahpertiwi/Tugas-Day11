@@ -1,0 +1,5 @@
+Perbedaan GET, POST, DELETE
+
+1. Delete : Digunakan ketika klien mencoba menghapus dokumen dari server web, yang diidentifikasi oleh URL permintaan.
+2. POST   : Digunakan untuk membuat Resource
+3. GET    : Digunakan untuk mendapatkan data dari server
